@@ -8,6 +8,8 @@
 
 import UIKit
 //My first comment
+// My 2nd comment
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
